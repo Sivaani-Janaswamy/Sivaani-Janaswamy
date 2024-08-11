@@ -11,5 +11,5 @@
 
 <h3 align="left">Social Media 🌐 </h3>
 <p align="left">
-<a href="https://linkedin.com/in/sivaani janaswamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivaani janaswamy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sivaani janaswamy](https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d989e297-c886-4054-8f07-59f49f0257ec" width="100" height = "40" />
 </p>
