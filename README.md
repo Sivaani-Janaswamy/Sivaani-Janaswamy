@@ -13,3 +13,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/sivaani janaswamy](https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d989e297-c886-4054-8f07-59f49f0257ec" width="100" height = "40" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaani-janaswamy&show_icons=true&locale=en" alt="sivaani-janaswamy" /></p
