@@ -1,6 +1,7 @@
-<img src = "https://github.com/user-attachments/assets/aeaf932a-c469-4a9b-950a-baefbb1b6d6e" alt = "waves" height="100" width ="1200"/>
+<img src = "https://github.com/user-attachments/assets/d996f02c-b9c9-4833-8520-04f74c56d90d" alt = "waves" height="20" width ="1200"/>
 <h1 align = "left">Hello! I'm Sivaani ✨ </h1>
 <p>
+
 <code> Technology Enthusiast (Software Developer/Designer) </code>
 
 <p> I'm a self-taught software developer and designer. I do projects in various software fields and improve my skills. I have done small beginner projects on full-stack development, game and app development, cybersecurity, etc.. I love coding and spending my time on Leetcode and CodeForces. Connect with me on...
