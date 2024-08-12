@@ -1,5 +1,4 @@
 <img src = "https://github.com/user-attachments/assets/aeaf932a-c469-4a9b-950a-baefbb1b6d6e" alt = "waves" height="100" width ="1200"/>
-
 <h1 align = "left">Hello! I'm Sivaani ✨ </h1>
 <p>
 <code> Technology Enthusiast (Software Developer/Designer) </code>
@@ -8,14 +7,13 @@
 </p>
   
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+ <a href="https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /> </a>
+ <a href = "https://www.youtube.com/@sivaanijanaswamy7451"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  /></a>
+  <a href ="https://www.instagram.com/sivaani_janaswamy/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
 </div>
 
-</p>
 <p>
 <h2 align="left">Languages and Tools </h2>
   
