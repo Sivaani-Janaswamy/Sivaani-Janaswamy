@@ -1,10 +1,9 @@
-<img src = "https://github.com/user-attachments/assets/d32b812a-7b18-4457-a9ac-6ac6708500ac" alt = "waves" height="200" width ="1000"/>
+<img src = "https://github.com/user-attachments/assets/9081ee97-756a-45c1-8ff0-e14c9d07ef80" alt = "waves" height="200" width ="1000"/>
 
 <h1 align = "left">👋 Hello! I'm Sivaani </h1>
 
-
-
 <p> I'm a self-taught software developer and designer. I do projects in various software fields and improve my skills. I have done small beginner projects on full-stack development, game and app development, cybersecurity, etc.. I love coding and spending my time on Leetcode and CodeForces.   </p>
+
 <p>
 <h2 align="left">Languages and Tools 🖥️</h2>
   
