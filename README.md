@@ -32,9 +32,9 @@
 <h2>Github Stats</h2>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="200" alt="stats graph" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="margin-right: 10px;" />
   
-  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="margin-left: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-left: 10px;" />
 </p>
 
 
