@@ -1,4 +1,5 @@
-<img src = "https://github.com/user-attachments/assets/9081ee97-756a-45c1-8ff0-e14c9d07ef80" alt = "waves" height="200" width ="1000"/>
+<img src = "https://github.com/user-attachments/assets/aeaf932a-c469-4a9b-950a-baefbb1b6d6e" alt = "waves" height="100" width ="1200"/>
+
 
 <h1 align = "left">👋 Hello! I'm Sivaani </h1>
 
@@ -28,8 +29,8 @@
 
 <p>
 <h2> Badges 🌟 </h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaani-janaswamy&theme=radical&hide_border=true" alt="sivaani-janaswamy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaani-janaswamy&show_icons=true&locale=en&theme=radical&hide_border=true" alt="sivaani-janaswamy" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaani-janaswamy&theme=dark&hide_border=true" alt="sivaani-janaswamy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaani-janaswamy&show_icons=true&locale=en&theme=dark&hide_border=true" alt="sivaani-janaswamy" /></p>
 </p>
 
 
