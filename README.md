@@ -1,6 +1,8 @@
-<img src = "https://github.com/user-attachments/assets/d996f02c-b9c9-4833-8520-04f74c56d90d" alt = "waves" height="20" width ="1200"/>
+
+<img width="1200" height = "20" alt="pink box" src="https://github.com/user-attachments/assets/b7695a6e-bfb6-454c-b897-55647a77be54">
 <h1 align = "left">Hello! I'm Sivaani ✨ </h1>
 <p>
+
 
 <code> Technology Enthusiast (Software Developer/Designer) </code>
 
@@ -25,19 +27,20 @@
 
 <p>
 <h2 align = "left"> Contributions </h2>
- <p align = "center"><img  src="https://github-profile-trophy.vercel.app?username=Sivaani-Janaswamy&theme=matrix&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> </p>
+ <p align = "center"><img  src="https://github-profile-trophy.vercel.app?username=Sivaani-Janaswamy&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> </p>
   
-<p align = "center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaani-Janaswamy&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph" /> </p>
+<p align = "center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaani-Janaswamy&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" /> </p>
  
 </p>
 
 <h2>Github Stats</h2>
-
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="margin-right: 10px;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   
-  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="margin-left: 10px;" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+
 
 
 
