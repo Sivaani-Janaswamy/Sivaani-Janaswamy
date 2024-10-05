@@ -11,8 +11,11 @@
   
 <div align="left">
  <a href="https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /> </a>
+ <a href="https://dribbble.com/SivaaniJ"> <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=FD89D8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribble logo"  /> </a>
+ <a href="https://codepen.io/Sivaani-Janaswamy"> <img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=D0FD89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribble logo"  /> </a>
  <a href="https://leetcode.com/u/Sivaani_Janaswamy/"> <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF7C09&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"/> </a>
  <a href="https://www.hackerearth.com/@Sivaani_Janaswamy/"> <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=243c55&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerearth logo"  /> </a>
+
 </div>
 
 <p align = "left">
