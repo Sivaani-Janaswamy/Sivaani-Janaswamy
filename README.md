@@ -11,17 +11,52 @@
   
 <div align="left">
  <a href="https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /> </a>
- <a href = "https://www.youtube.com/@sivaanijanaswamy7451"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  /></a>
-  <a href ="https://www.instagram.com/sivaani_janaswamy/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=243c55&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerearth logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+ <a href="https://leetcode.com/u/Sivaani_Janaswamy/"> <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF7C09&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"/> </a>
+ <a href="https://www.hackerearth.com/@Sivaani_Janaswamy/"> <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=243c55&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerearth logo"  /> </a>
 </div>
 
 <p align = "left">
-<h2 align="left">Languages and Tools </h2>
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+<h2 align="left">Languages and tools </h2>
+<!--photoshop-->
+<img src="https://github.com/user-attachments/assets/398af856-faaa-4f3d-b956-47ca8b866021" alt="photoshop" width="60" height="60"/>
+<!--illustrator-->
+<img src="https://github.com/user-attachments/assets/f251f53f-c52d-49b4-b935-f0d4e7317105" alt="illustrator" width="60" height="60"/> 
+<!--aftereffects-->
+<img src="https://github.com/user-attachments/assets/565736ff-6990-42a9-a037-90be7ca9c3cd" alt="aftereffects" width="60" height="60"/> 
+<!--davinci resolve-->
+<img src="https://github.com/user-attachments/assets/20dc902e-2fe6-42a6-b2cd-910fb5174183" alt="davinci resolve" width="60" height="60"/> 
+<!--blender-->
+<img src="https://github.com/user-attachments/assets/df9c56cc-2706-43b3-9cbf-87753db7d1c8" alt="blender" width="60" height="60"/>
+<!--unity-->
+<img src="https://github.com/user-attachments/assets/d9ba0add-90c1-4dba-b6ae-d52ed9b41038" alt="unity" width="60" height="60"/>
+<!--solidedge-->
+<img src="https://github.com/user-attachments/assets/d09b626d-6e1a-4484-9ea7-a260c21b89e6" alt="solidedge" width="60" height="60"/>
+<!--canva-->
+<img src="https://github.com/user-attachments/assets/7de01e9b-ba97-4b4a-8742-77720085b5fe" alt="canva" width="60" height="60"/>
+<!--figma-->
+<img src="https://github.com/user-attachments/assets/72c62731-536e-4309-a715-dcccc8ed8e54" alt="canva" width="60" height="60"/>
+<!--java-->
+<img src="https://github.com/user-attachments/assets/57ba6e64-23ae-42bf-a846-68cbf64af163" alt="java" width="60" height="60"/>
+<!--python-->
+<img src="https://github.com/user-attachments/assets/c2d575e1-63dd-451f-965c-51807f5f2503" alt="python" width="60" height="60"/>
+<!--C,C++,C#-->
+<img src="https://github.com/user-attachments/assets/abc29962-8525-4099-87c2-d4542d6e7224" alt="c++" width="60" height="60"/>
+<img src="https://github.com/user-attachments/assets/d6381fa4-5f5d-42db-9282-5abca5d9a593" alt="c" width="60" height="60"/>
+<img src="https://github.com/user-attachments/assets/2e5db841-6642-4c07-8926-dab9ce79448e" alt="c#" width="60" height="60"/>
+<!--html-->
+<img src="https://github.com/user-attachments/assets/8cb377cb-fb44-4428-93e7-59916f3e9e79" alt="html" width="60" height="60"/>
+<!--css-->
+<img src="https://github.com/user-attachments/assets/586909c8-e498-454d-b097-218518736bca" alt="css" width="60" height="60"/>
+<!--javascript-->
+<img src="https://github.com/user-attachments/assets/99bd64b8-0669-43ba-a9ca-5d96c3a13511" alt="js" width="60" height="60"/>
+<!--mssql-->
+<img src="https://github.com/user-attachments/assets/32847a85-cbf6-40d1-bb9c-28e6a53a63a7" alt="mssql" width="60" height="60"/>
+<!--r-->
+<img src="https://github.com/user-attachments/assets/3b353547-559f-4af1-b83c-8df894cf5d9a" alt="r" width="60" height="60"/>
+<!--excel-->
+<img src="https://github.com/user-attachments/assets/927b47a2-633c-40c2-8ca1-ec1e74e21855" alt="excel" width="60" height="60"/>
+<!--linux-->
+<img src="https://github.com/user-attachments/assets/4e1eaae7-5de8-4469-8dbb-916a3bbbc50d" alt="linux" width="60" height="60"/>
   
 </p>
 
@@ -34,11 +69,13 @@
 </p>
 
 <h2>Github Stats</h2>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   
   <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
+
+
 
 
 
