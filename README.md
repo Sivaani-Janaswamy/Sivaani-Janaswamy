@@ -19,7 +19,7 @@
 
 
 <p align = "left">
-<h2 align="left">Languages and tools </h2>
+<h2 align="left">Languages and Tools </h2>
 <!--photoshop-->
 <img src="https://github.com/user-attachments/assets/398af856-faaa-4f3d-b956-47ca8b866021" alt="photoshop" width="60" height="60"/>
 <!--illustrator-->
