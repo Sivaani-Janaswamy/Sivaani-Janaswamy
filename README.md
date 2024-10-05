@@ -7,16 +7,16 @@
 <code> Technology Enthusiast (Software Developer/Designer) </code>
 
 <p> I'm a self-taught software developer and designer. I do projects in various software fields and improve my skills. I have done small beginner projects on full-stack development, game and app development, cybersecurity, etc.. I love coding and spending my time on Leetcode and CodeForces. Connect with me on...
-</p>
   
+</p>
 <div align="left">
- <a href="https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /> </a>
- <a href="https://dribbble.com/SivaaniJ"> <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=FD89D8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribble logo"  /> </a>
- <a href="https://codepen.io/Sivaani-Janaswamy"> <img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=D0FD89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribble logo"  /> </a>
- <a href="https://leetcode.com/u/Sivaani_Janaswamy/"> <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF7C09&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"/> </a>
- <a href="https://www.hackerearth.com/@Sivaani_Janaswamy/"> <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=243c55&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerearth logo"  /> </a>
-
+  <a href="https://www.linkedin.com/in/sivaani-janaswamy-2b2a32291/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" /></a>
+  <a href="https://dribbble.com/SivaaniJ"><img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=FD89D8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Dribbble logo" /></a>
+  <a href="https://codepen.io/Sivaani-Janaswamy"><img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=D0FD89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="CodePen logo" /></a>
+  <a href="https://leetcode.com/u/Sivaani_Janaswamy/"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF7C09&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo" /></a>
+  <a href="https://www.hackerearth.com/@Sivaani_Janaswamy/"><img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=243c55&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="HackerEarth logo" /></a>
 </div>
+
 
 <p align = "left">
 <h2 align="left">Languages and tools </h2>
