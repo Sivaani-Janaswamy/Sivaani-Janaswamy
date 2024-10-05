@@ -67,7 +67,7 @@
 <h2 align = "left"> Contributions </h2>
  <p align = "center"><img  src="https://github-profile-trophy.vercel.app?username=Sivaani-Janaswamy&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> </p>
   
-<p align = "center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaani-Janaswamy&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" /> </p>
+<p align = "center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaani-Janaswamy&radius=16&theme=dracula&area=true&order=2" height="300" alt="activity-graph graph" /> </p>
  
 </p>
 
@@ -75,7 +75,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   
-  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph" />
 </div>
 
 
