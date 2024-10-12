@@ -6,7 +6,7 @@
 
 <code> Technology Enthusiast (Software Developer/Designer) </code>
 
-<p> I'm a self-taught software developer and designer. I do projects in various software fields and improve my skills. I have done small beginner projects on full-stack development, game and app development, cybersecurity, etc.. I love coding and spending my time on Leetcode and CodeForces. Connect with me on...
+<p> I'm a self-taught software developer and designer. I do projects in various software fields and improve my skills. I have done small beginner projects on full-stack development, game and app development, cybersecurity, etc.. I love coding. Connect with me on...
   
 </p>
 <div align="left">
