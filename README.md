@@ -72,11 +72,20 @@
 </p>
 
 <h2>Github Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" height="150" alt="langs graph"/>  
-  <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" height="150" alt="langs graph"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
