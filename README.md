@@ -14,6 +14,8 @@
   <a href="https://codepen.io/Sivaani-Janaswamy"><img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=D0FD89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="CodePen logo" /></a>
   <a href="https://leetcode.com/u/Sivaani_Janaswamy/"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FF7C09&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo" /></a>
   <a href="https://www.hackerearth.com/@Sivaani_Janaswamy/"><img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=243c55&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="HackerEarth logo" /></a>
+  <a href="https://www.behance.net/sivaanijanaswa"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=2C2EFF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Behance logo" /></a>
+   <a href="https://www.hackerrank.com/profile/Sivaani_J"><img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=160844&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo" /></a>
 </div>
 
 
