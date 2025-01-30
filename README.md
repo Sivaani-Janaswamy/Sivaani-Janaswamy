@@ -81,11 +81,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" height="150" alt="langs graph"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"/>
-    </td>
   </tr>
 </table>
+ <img src="https://streak-stats.demolab.com?user=Sivaani-Janaswamy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"/>
 
 
 
