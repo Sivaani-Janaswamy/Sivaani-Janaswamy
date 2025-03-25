@@ -73,16 +73,11 @@
 </p>
 
 <h2>Github Stats</h2>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=ture&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" height="150" alt="langs graph"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" height="150" alt="langs graph"/>
+</div>
+
 
 
 
