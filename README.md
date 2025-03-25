@@ -73,10 +73,11 @@
 </p>
 
 <h2>Github Stats</h2>
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" height="150" alt="langs graph"/>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sivaani-Janaswamy&count_private=true&show_icons=true&theme=dracula" width="400" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaani-Janaswamy&layout=compact&theme=dracula" width="300" height="150" alt="Most Used Languages"/>
 </div>
+
 
 
 
